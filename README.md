@@ -1,6 +1,6 @@
 # API Docs MCP
 
-API Docs MCP is a Model Context Protocol (MCP) server that provides tools for loading, parsing, and interacting with API documentation (OpenAPI/Swagger specs) and integrates with Google Gemini AI for code generation, analysis, and chat. This project is designed to help developers explore APIs, generate code samples, and leverage AI-powered assistance for their projects.
+API Docs MCP is a Model Context Protocol (MCP) server that provides tools for loading, parsing, and interacting with API documentation (OpenAPI/Swagger specs) and integrates with Google Gemini AI for code generation, analysis, and chat. This project is designed to help developers explore APIs, generate code samples, and leverage AI-powered assistance for their projects.(it is feasibile within VS code IDE)
 
 ## Features
 
