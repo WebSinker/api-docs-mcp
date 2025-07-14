@@ -1,0 +1,12 @@
+{
+	"servers": {
+		"api-docs-mcp": {
+			"type": "stdio",
+			"command": "node",
+			"args": [
+				"C:\\Users\\leeyo\\OneDrive - Asia Pacific University\\Documents\\api-docs-mcp\\build\\index.js"
+			]
+		}
+	},
+	"inputs": []
+}
